@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VHDL,FPGA**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r](https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r/](https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r/)
 
 - 📫 How to reach me **eminozdemir016@gmail.com**
 
