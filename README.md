@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eminozdemir016@gmail.com**
 
-- ⚡ Fun fact **I think I am a team member**
+- ⚡ **I think I am a team player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
