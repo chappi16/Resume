@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin ÖZDEMİR</h1>
 <h3 align="center">A curious developer engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **VHDL,FPGA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r/](https://www.linkedin.com/in/emin-%C3%B6zdemi%CC%87r/)
 
